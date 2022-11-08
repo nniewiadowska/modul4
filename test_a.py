@@ -1,6 +1,6 @@
 import unittest
 
-from 3a import multiply
+from a import multiply
 
 class test_program(unittest.TestCase):
   def test_multiply(self):
