@@ -26,9 +26,9 @@
   - lol
 + trzecie
 
-Kod programu '' print("zagnieżdżony w tekście") '' wygląda tak
+Kod programu '' print("zagnieżdżony w tekście'") '' wygląda tak
 
-'''
+~~~
 
 x = 2
 y = 6
@@ -36,6 +36,6 @@ z = y+x
 
 print(z)
 
-'''
+~~~
 
 ![pexels-peng-louis-1643456.jpg](pexels-peng-louis-1643456.jpg)
