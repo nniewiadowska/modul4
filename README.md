@@ -9,14 +9,14 @@
 
 **zagnieżdżona lista numeryczna**
 1. jeden
-  - podpunkt a
-  - podpunkt b
+   podpunkt a
+   podpunkt b
 2. dwa
-  - podpunkt a
-  - podpunkt b
+   podpunkt a
+   podpunkt b
 3. trzy
 4. cztery
-  - podpunkt a
+   podpunkt a
 
 **zagnieżdżona lista nieuporządkowana**
 + pierwsze
@@ -26,13 +26,13 @@
   - lol
 + trzecie
 
-Kod programu 'print("zagnieżdżony w tekście")' wygląda tak
+Kod programu '' print("zagnieżdżony w tekście") '' wygląda tak
 
 '''
 
 x = 2
 y = 6
-z = y**x
+z = y+x
 
 print(z)
 
