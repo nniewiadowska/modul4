@@ -9,14 +9,9 @@
 
 **zagnieżdżona lista numeryczna**
 1. jeden
-   podpunkt a
-   podpunkt b
 2. dwa
-   podpunkt a
-   podpunkt b
 3. trzy
 4. cztery
-   podpunkt a
 
 **zagnieżdżona lista nieuporządkowana**
 + pierwsze
