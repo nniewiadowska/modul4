@@ -26,7 +26,7 @@
   - lol
 + trzecie
 
-Kod programu '' print("zagnieżdżony w tekście'") '' wygląda tak
+Kod programu '' print("zagnieżdżony w tekście '") ''
 
 ~~~
 
